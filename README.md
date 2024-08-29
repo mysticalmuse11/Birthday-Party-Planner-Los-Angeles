@@ -1,6 +1,6 @@
-# Singing Schools in Toronto Article Website
+# Birthday Party Planner Article Website
 
-This project contains a simple HTML webpage that provides comprehensive <a href=https://eventsbymala.com/birthday-party-planner-los-angeles/>Birthday Party Planner Los Angeles</a> tips and includes a call to action for Party PLanner from Events By Mala.
+This project contains a simple HTML webpage that provides comprehensive <a href=https://eventsbymala.com/birthday-party-planner-los-angeles/>Birthday Party Planner</a> tips and includes a call to action for Party PLanner from Events By Mala.
 
 ## Table of Contents
 
